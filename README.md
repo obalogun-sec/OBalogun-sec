@@ -54,3 +54,4 @@ Below is a structured log of my cybersecurity laboratory investigations, utilizi
 | Project | Description | Core Skills Demonstrated | Full Write-Up |
 | :--- | :--- | :--- | :--- |
 | **Phishing Investigation (CoCanDa)** | Analyzed a simulated malicious email in an isolated environment to trace threat actor origins. | Header Analysis, Malware Handling, C2 Identification | [Read Report](./Link-To-Your-Folder) |
+| **Splunk SIEM Endpoint Compromise** | Investigated a multi-stage endpoint compromise using Splunk SIEM and Sysmon telemetry. Correlated initial browser payload delivery, PowerShell execution, Scheduled Task persistence, and outbound C2 traffic into an actionable Incident Response report. | Splunk SPL, Sysmon Analysis, Threat Hunting, IOC Extraction | [Read Report](./Splunk-Endpoint-Compromise-Analysis) |
