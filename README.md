@@ -46,12 +46,8 @@ IT professional with an Associate Diploma in Computer Science and over six years
 ![The Forge](https://img.shields.io/badge/The_Forge_Community_(Skool)-20232A?style=for-the-badge)
 
 ---
+### 📁 [Security Projects & Investigations](./-Security-Projects-Investigations)
 
-### 📁 Security Projects & Investigations
+This directory houses a growing collection of my hands-on technical write-ups and incident response simulations. It highlights my practical ability to triage malware, analyze SIEM telemetry, and conduct email forensics within isolated virtual lab environments.
 
-Below is a structured log of my cybersecurity laboratory investigations, utilizing my virtualized home lab environments.
-
-| Project | Description | Core Skills Demonstrated | Full Write-Up |
-| :--- | :--- | :--- | :--- |
-| **Phishing Investigation (CoCanDa)** | Analyzed a simulated malicious email in an isolated environment to trace threat actor origins. | Header Analysis, Malware Handling, C2 Identification | [Read Report](https://github.com/obalogun-sec/Phishing-Investigation-The-Planet-s-Prestige-CoCanDa-) |
-| **Splunk SIEM Endpoint Compromise** | Investigated a multi-stage endpoint compromise using Splunk SIEM and Sysmon telemetry. Correlated initial browser payload delivery, PowerShell execution, Scheduled Task persistence, and outbound C2 traffic into an actionable Incident Response report. | Splunk SPL, Sysmon Analysis, Threat Hunting, IOC Extraction | [Read Report](./Splunk-Endpoint-Compromise-Analysis) |
+**➡️ [Click here to view the full directory of project write-ups and technical reports.](https://github.com/obalogun-sec/-Security-Projects-Investigations)**
